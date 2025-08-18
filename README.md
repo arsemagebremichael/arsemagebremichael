@@ -1,6 +1,6 @@
 # Hi, I'm Arsema 👋
 
-Seeing the world as a canvas where artistic expression meets logical precision, I approach technology with the eye of an artist—seeing patterns and structure as opportunities for creative expression. As a software engineer, I aspire to contribute to the tech industry where creativity and logic work hand in hand to serve communities.
+I approach technology with the eye of an artist—seeing patterns and structure as opportunities for creative expression. As a software engineer, I aspire to contribute to the tech industry where creativity and logic work hand in hand to serve communities.
 
 ---
 
@@ -24,7 +24,7 @@ I am passionate about the intersection of creativity and technology, dedicated t
   <img alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="30" height="30"/>
 </p>
 
-- **Programming:** JavaScript, React.js, Naxt.js, Kotlin, Python, Django, HTML, CSS  
+- **Programming:** JavaScript, React.js, Next.js, Kotlin, Python, Django, HTML, CSS  
 - **Backend:** RESTful API Development, System Architecture, Data Modeling  
 - **Frontend:** Responsive Web Design, UI/UX with Figma, Adobe Illustrator  
 - **Testing:** Unit & Integration Testing, Postman  
@@ -37,8 +37,7 @@ I am passionate about the intersection of creativity and technology, dedicated t
 
 ## Contact Me
 
-- GitHub: [github.com/arsema](https://github.com/arsema)  
-- LinkedIn: [linkedin.com/in/arsema](https://linkedin.com/in/arsema)  
+- LinkedIn: [linkedin.com/in/arsema]([https://linkedin.com/in/arsema](https://www.linkedin.com/in/arsema-gebremichael-aa387935a/))  
 
 ---
 
