@@ -21,7 +21,8 @@ I am passionate about the intersection of creativity and technology, dedicated t
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/>
   <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/>
   <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
-  <img alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="30" height="30"/>
+  <img alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-original.svg" width="30" height="30"/>
+
 </p>
 
 - **Programming:** JavaScript, React.js, Next.js, Kotlin, Python, Django, HTML, CSS  
@@ -31,8 +32,6 @@ I am passionate about the intersection of creativity and technology, dedicated t
 - **Other:** AI-driven content generation, Geocoding APIs, Role-based Authentication  
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsemagebremichael&layout=compact&theme=dracula)
-
 
 
 ## Contact Me
