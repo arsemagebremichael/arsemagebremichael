@@ -15,7 +15,6 @@ I am passionate about the intersection of creativity and technology, dedicated t
 <p>
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/>
-  <img alt="Next.js" src="https://raw.githubusercontent.com/vercel/next.js/canary/packages/next/static/favicon/favicon.ico" width="30" height="30"/>
   <img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
   <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30" height="30"/>
