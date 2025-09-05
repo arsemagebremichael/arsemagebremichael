@@ -1,6 +1,6 @@
 # Hi, I'm Arsema 👋
 
-I approach technology with the eye of an artist—seeing patterns and structure as opportunities for creative expression. As a software engineer, I aspire to contribute to the tech industry where creativity and logic work hand in hand to serve communities.
+I approach technology with the eye of an artist, seeing patterns and structure as opportunities for creative expression. As a software engineer, I aspire to contribute to the tech industry where creativity and logic work hand in hand to serve communities.
 
 ---
 
