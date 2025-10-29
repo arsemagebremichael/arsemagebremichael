@@ -1,4 +1,4 @@
-# Hi, I'm Arsema 👋
+# Hello, My name is Arsema
 
 I approach technology with the eye of an artist, seeing patterns and structure as opportunities for creative expression. As a software engineer, I aspire to contribute to the tech industry where creativity and logic work hand in hand to serve communities.
 
@@ -6,7 +6,7 @@ I approach technology with the eye of an artist, seeing patterns and structure a
 
 ## About Me
 
-I am passionate about the intersection of creativity and technology, dedicated to building innovative solutions that positively impact communities. With skills spanning backend and frontend development, mobile app creation, and UX/UI design, I enjoy transforming complex challenges into elegant, functional applications.
+I am passionate about the intersection of creativity and dedicated to building innovative solutions that positively impact communities. With skills spanning backend and frontend development, and UX/UI design, I enjoy transforming complex challenges into simple to use solutions.
 
 ---
 
